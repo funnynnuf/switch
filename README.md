@@ -1,6 +1,6 @@
 # Switch Guide
 
-[The guide can be found here!](https://nh-server.github.io/switch-guide)
+[The mirror can be found here!](https://funnynnuf.github.io/switch/)
 
 [![Build Status](https://travis-ci.com/nh-server/switch-guide.svg?branch=master)](https://travis-ci.com/nh-server/switch-guide)
 
